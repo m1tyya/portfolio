@@ -1,6 +1,6 @@
 {
 	"license": "MIT",
-	"name": "next-template",
+	"name": "portfolio",
 	"private": true,
 	"scripts": {
 		"build": "next build",
