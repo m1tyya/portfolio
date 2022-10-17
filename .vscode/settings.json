@@ -1,0 +1,12 @@
+{
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"eslint.packageManager": "yarn",
+	"files.eol": "\n",
+	"javascript.preferences.quoteStyle": "single",
+	"npm.packageManager": "yarn",
+	"prettier.useTabs": true,
+	"typescript.preferences.quoteStyle": "single",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+}
