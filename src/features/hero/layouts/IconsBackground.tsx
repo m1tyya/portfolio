@@ -12,8 +12,11 @@ const icons: Array<SvgIconProps> = [
 	{
 		position: {
 			left: '5%',
-			top: '22%',
+			top: '12%',
 			transform: 'rotate(7deg)',
+			'@minLg': {
+				top: '22%',
+			},
 		},
 		svg: Jogging,
 	},
